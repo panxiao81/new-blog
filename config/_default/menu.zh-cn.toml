@@ -1,0 +1,14 @@
+[[main]]
+  identifier = "dropdown"
+  name = "更多"
+  pre = '<i class="fas fa-fw fa-chevron-circle-down"></i>'
+[[main]]
+  id = "github"
+  parent = "dropdown"
+  name = "Github"
+  url = "https://github.com/panxiao81/panxiao81.github.io"
+[[main]]
+  id = "debian"
+  parent = "dropdown"
+  name = "Debian 快速入门指南"
+  url = "https://blog.ddupan.top/ChinaSkills-Debian"

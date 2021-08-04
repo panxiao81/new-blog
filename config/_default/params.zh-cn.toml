@@ -1,0 +1,5 @@
+dateFormat = "2006-01-02"
+description = "Pan Xiao's Blog"
+keywords = "网络, Linux"
+[archive]
+  dateFormat = "01-02"
