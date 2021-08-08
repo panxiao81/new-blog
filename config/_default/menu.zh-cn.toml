@@ -6,9 +6,17 @@
   id = "github"
   parent = "dropdown"
   name = "Github"
+  weight = 3
   url = "https://github.com/panxiao81/panxiao81.github.io"
 [[main]]
   id = "debian"
   parent = "dropdown"
   name = "Debian 快速入门指南"
+  weight = 1
   url = "https://blog.ddupan.top/Chinaskills-Debian"
+[[main]]
+  id = "gitlab"
+  parent = "dropdown"
+  name = "GitLab"
+  weight = 2
+  url = "https://gitlab.ddupan.top/panxiao81/"
