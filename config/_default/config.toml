@@ -16,7 +16,7 @@ paginate = 5
 # disqusShortname = "yourdiscussshortname"
 
 # Google analytics
-# googleAnalytics = "UA-123-45"
+googleAnalytics = "G-3C9M6HGJH7"
 
 enableRobotsTXT = true
 

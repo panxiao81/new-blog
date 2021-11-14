@@ -2,8 +2,8 @@
 
 # titleSeparator = "|" # Title separator. Default to "-".
 
-description = "An extreme fast, responsive and feature-rich blog theme for Hugo"
-keywords = "Hugo, Bootstrap, Blog Theme"
+description = "Pan Xiao's Blog, Write Down Tech and My Life"
+keywords = "Linux, Network, IT"
 # images = ["site-feature-image.jpg"]
 
 # logo = "images/logo.png" # Logo image. Default to "images/logo.webp".
@@ -22,7 +22,7 @@ palette = "blue" # Default palette. Optional.
 # dateFormat = "Jan 2, 2006"
 
 # Google Adsense
-googleAdsense = ""
+googleAdsense = "ca-pub-4922564642438130"
 
 # math = true # Enable math globally.
 # toc = false # Disable TOC globally.
