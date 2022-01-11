@@ -1,7 +1,7 @@
 baseURL = "https://www.ddupan.top"
 title = "Pan Xiao's Blog"
 theme = "hugo-theme-bootstrap"
-copyright = "Copyright © 2016-{year} Pan Xiao. All Rights Reserved."
+copyright = "Copyright © 2020-{year} Pan Xiao. All Rights Reserved."
 
 # Multilingual mode
 defaultContentLanguage = "zh-cn"
@@ -29,8 +29,18 @@ pygmentsUseClasses = true
 [blackfriday]
   hrefTargetBlank = true
 
+[mediaTypes]
+  [mediaTypes."application/manifest+json"]
+    suffixes = ["json"]
+  
+[outputFormats]
+  [outputFormats.MANIFEST]
+    name = "manifest"
+    baseName = "manifest"
+    mediaType = "application/manifest+json"
+
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS", "JSON", "MANIFEST"]
 
 [taxonomies]
   category = "categories"

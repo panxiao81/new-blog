@@ -1,13 +1,16 @@
 +++
 title = "友链"
-layout = ""
 [creativeCommons]
   by = false
   sa = false
 [menu.main]
   weight = 50
-  pre = '<i class="fas fa-fw fa-user-friends"></i>'
+  pre = '<i class="fas fa-fw fa-user"></i>'
   url = "friends"
+reward = false
+postDate = false
+readingTime = false
+layout = "single"
 +++
 
 [Al0ha0e](https://al0ha0e.github.io/)

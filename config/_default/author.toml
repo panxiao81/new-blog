@@ -3,7 +3,18 @@ name = "Pan Xiao"
 bio = "Student, Network and Linux Nerd, And music staff"
 #company = ""
 location = "China"
-# about = "https://domain.tld" # The external about page. The internal about page will be used if not set.
+about = "https://www.ddupan.cc" # The external about page. The internal about page will be used if not set.
 
 [params]
   #layout = "compact"
+
+
+
+
+
+[social]
+  email = "pan-xiao@live.cn"
+  #facebook = "yourfacebookusername"
+  #github = "panxiao81"
+  #twitter = "yourtwitterusername"
+  #linkedin = "yourlinkedinusername"
