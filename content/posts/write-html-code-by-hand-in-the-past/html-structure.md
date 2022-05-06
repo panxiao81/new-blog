@@ -211,7 +211,7 @@ XHTML 1.0 可以近似的看作 HTML 4.01，不使用严格模式的情况下使
 
 加入 `defer` 的目的是让浏览器在 HTML 加载完成后再解析 JavaScript。
 
-### \<body>
+### &lt;body&gt;
 
 `body` 元素表示文档的正文内容。
 
