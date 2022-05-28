@@ -6,7 +6,7 @@
   id = "github"
   parent = "dropdown"
   name = "Github"
-  weight = 3
+  weight = 5
   url = "https://github.com/panxiao81/new-blog"
 [[main]]
   id = "debian"
@@ -18,5 +18,17 @@
   id = "git"
   parent = "dropdown"
   name = "Gitea"
-  weight = 2
+  weight = 4
   url = "https://git.apps.ddupan.top/panxiao81/"
+[[main]]
+  id = "tlpi"
+  parent = "dropdown"
+  name = "TLPI 笔记"
+  weight = 2
+  url = "https://blog.ddupan.top/learn-tlpi"
+[[main]]
+  id = "csapp"
+  parent = "dropdown"
+  name = " CS:APP 笔记"
+  weight = 3
+  url = "https://blog.ddupan.top/learn-csapp"
