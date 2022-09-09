@@ -1,8 +1,8 @@
 ---
 title:  在 Go 中调用 Syscall 的正确打开方式 - 以创建 Tun 接口为例
 date: 2022-09-10T00:56:15+08:00
-categories: [Go，Programming，Linux]
-tags: [golang，go，programming，linux]
+categories: ['Go', 'Programming', 'Linux']
+tags: ['golang','go','programming','linux']
 ---
 
 

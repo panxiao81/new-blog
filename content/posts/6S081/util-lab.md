@@ -5,8 +5,8 @@ categories: [
     "Programming"
 ]
 tags: [
-    “programming”,
-    ”6.S081“
+    'programming',
+    '6.S081'
 ]
 series: ["6.S081 Fall 2020"]
 draft: false
