@@ -58,7 +58,7 @@ Tello 注册时填上邀请链接，开户后可以拿到 $10 作为奖励，欢
 rules:
 - IP-CIDR,208.54.0.0/16,DIRECT
 - IP-CIDR,66.94.0.0/19,DIRECT
-- IP-CIDR,206.29.177.36,DIRECT
+- IP-CIDR,206.29.177.36/32,DIRECT
 ```
 
 第一次开通 Wi-Fi Calling 我折腾了两天，因为我在路由器上配置了 hosts，但是 Wi-Fi Calling 也还是无法连接，昨日晚上打开手机突然发现有信号了，才试着改 Clash 分流规则，发现直连也能连接而且非常稳定，我才发现是 Clash 和机场的问题。
