@@ -1,6 +1,6 @@
 ---
 title: "自主开通一个美国 eSIM 手机卡"
-date: 2021-12-12T13:52:00+08:00
+date: 2022-12-12T13:52:00+08:00
 draft: false
 categories: [
     "闲话"
