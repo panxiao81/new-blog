@@ -179,6 +179,8 @@ void queueFree(Queue* obj) {
 
 ### LeetCode 622. 设计循环队列
 
+[LeetCode 622. 设计循环队列](https://leetcode-cn.com/problems/design-circular-queue/)
+
 这道题目是 LeetCode 上唯一一道纯粹使用队列的题目。
 
 ```go

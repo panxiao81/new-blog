@@ -25,7 +25,8 @@ palette = "blue" # Default palette. Optional.
 googleAdsense = "ca-pub-4922564642438130"
 
 math = true # Enable math globally.
-toc = true # Disable TOC globally.
+# toc = true # Disable TOC globally.
+diagram = true
 # breadcrumb = false # Disable breadcrumb
 
 # poweredBy = false # Whether to show powered by.
