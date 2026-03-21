@@ -19,16 +19,22 @@
   parent = "dropdown"
   name = "Gitea"
   weight = 4
-  url = "https://git.apps.ddupan.top/panxiao81/"
+  url = "https://git.ddupan.top/panxiao81/"
 [[main]]
   id = "tlpi"
   parent = "dropdown"
   name = "TLPI 笔记"
   weight = 2
-  url = "https://blog.ddupan.top/learn-tlpi"
+  url = "https://panxiao81.github.io/learn-tlpi/"
 [[main]]
   id = "csapp"
   parent = "dropdown"
-  name = " CS:APP 笔记"
+  name = "CS:APP 笔记"
   weight = 3
-  url = "https://blog.ddupan.top/learn-csapp"
+  url = "https://panxiao81.github.io/learn-csapp"
+[[main]]
+  id = "e5renew"
+  parent = "dropdown"
+  name = "E5自动更新"
+  weight = 6
+  url = "https://e5renew.ddupan.top"
